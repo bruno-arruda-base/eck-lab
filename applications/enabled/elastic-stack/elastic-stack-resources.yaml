@@ -11,7 +11,7 @@ spec:
   source:
     repoURL: https://github.com/bruno-arruda-base/eck-lab.git
     path: ./yaml/elastic-stack
-    targetRevision: main
+    targetRevision: master
   syncPolicy:
     automated:
         prune: true
