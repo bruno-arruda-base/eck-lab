@@ -6,7 +6,7 @@ metadata:
     controller-gen.kubebuilder.io/version: v0.15.0
     helm.sh/resource-policy: keep
   labels:
-    app.kubernetes.io/instance: 'elastic-operator'
+    app.kubernetes.io/instance: 'elastic-stack-resources'
     app.kubernetes.io/name: 'eck-operator-crds'
     app.kubernetes.io/version: '2.14.0'
   name: agents.agent.k8s.elastic.co
@@ -1112,7 +1112,7 @@ metadata:
     controller-gen.kubebuilder.io/version: v0.15.0
     helm.sh/resource-policy: keep
   labels:
-    app.kubernetes.io/instance: 'elastic-operator'
+    app.kubernetes.io/instance: 'elastic-stack-resources'
     app.kubernetes.io/name: 'eck-operator-crds'
     app.kubernetes.io/version: '2.14.0'
   name: apmservers.apm.k8s.elastic.co
@@ -2308,7 +2308,7 @@ metadata:
     controller-gen.kubebuilder.io/version: v0.15.0
     helm.sh/resource-policy: keep
   labels:
-    app.kubernetes.io/instance: 'elastic-operator'
+    app.kubernetes.io/instance: 'elastic-stack-resources'
     app.kubernetes.io/name: 'eck-operator-crds'
     app.kubernetes.io/version: '2.14.0'
   name: beats.beat.k8s.elastic.co
@@ -2773,7 +2773,7 @@ metadata:
     controller-gen.kubebuilder.io/version: v0.15.0
     helm.sh/resource-policy: keep
   labels:
-    app.kubernetes.io/instance: 'elastic-operator'
+    app.kubernetes.io/instance: 'elastic-stack-resources'
     app.kubernetes.io/name: 'eck-operator-crds'
     app.kubernetes.io/version: '2.14.0'
   name: elasticmapsservers.maps.k8s.elastic.co
@@ -3361,7 +3361,7 @@ metadata:
     controller-gen.kubebuilder.io/version: v0.15.0
     helm.sh/resource-policy: keep
   labels:
-    app.kubernetes.io/instance: 'elastic-operator'
+    app.kubernetes.io/instance: 'elastic-stack-resources'
     app.kubernetes.io/name: 'eck-operator-crds'
     app.kubernetes.io/version: '2.14.0'
   name: elasticsearchautoscalers.autoscaling.k8s.elastic.co
@@ -3681,7 +3681,7 @@ metadata:
     controller-gen.kubebuilder.io/version: v0.15.0
     helm.sh/resource-policy: keep
   labels:
-    app.kubernetes.io/instance: 'elastic-operator'
+    app.kubernetes.io/instance: 'elastic-stack-resources'
     app.kubernetes.io/name: 'eck-operator-crds'
     app.kubernetes.io/version: '2.14.0'
   name: elasticsearches.elasticsearch.k8s.elastic.co
@@ -6348,7 +6348,7 @@ metadata:
     controller-gen.kubebuilder.io/version: v0.15.0
     helm.sh/resource-policy: keep
   labels:
-    app.kubernetes.io/instance: 'elastic-operator'
+    app.kubernetes.io/instance: 'elastic-stack-resources'
     app.kubernetes.io/name: 'eck-operator-crds'
     app.kubernetes.io/version: '2.14.0'
   name: enterprisesearches.enterprisesearch.k8s.elastic.co
@@ -7488,7 +7488,7 @@ metadata:
     controller-gen.kubebuilder.io/version: v0.15.0
     helm.sh/resource-policy: keep
   labels:
-    app.kubernetes.io/instance: 'elastic-operator'
+    app.kubernetes.io/instance: 'elastic-stack-resources'
     app.kubernetes.io/name: 'eck-operator-crds'
     app.kubernetes.io/version: '2.14.0'
   name: kibanas.kibana.k8s.elastic.co
@@ -8767,7 +8767,7 @@ metadata:
     controller-gen.kubebuilder.io/version: v0.15.0
     helm.sh/resource-policy: keep
   labels:
-    app.kubernetes.io/instance: 'elastic-operator'
+    app.kubernetes.io/instance: 'elastic-stack-resources'
     app.kubernetes.io/name: 'eck-operator-crds'
     app.kubernetes.io/version: '2.14.0'
   name: logstashes.logstash.k8s.elastic.co
@@ -9897,7 +9897,7 @@ metadata:
     controller-gen.kubebuilder.io/version: v0.15.0
     helm.sh/resource-policy: keep
   labels:
-    app.kubernetes.io/instance: 'elastic-operator'
+    app.kubernetes.io/instance: 'elastic-stack-resources'
     app.kubernetes.io/name: 'eck-operator-crds'
     app.kubernetes.io/version: '2.14.0'
   name: stackconfigpolicies.stackconfigpolicy.k8s.elastic.co
