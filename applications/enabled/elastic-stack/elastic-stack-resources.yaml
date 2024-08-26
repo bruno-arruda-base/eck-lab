@@ -4,7 +4,7 @@ metadata:
   name: elastic-stack-resources
   namespace: argocd
 spec:
-  project: elastic-stack
+  project: default
   destination:
     server: 'https://kubernetes.default.svc'
     namespace: elastic-stack
